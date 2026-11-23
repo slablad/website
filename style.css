@@ -1,0 +1,9 @@
+body{background-color: whitesmoke;}
+button{background-color:transparent; text-decoration:none;}
+img:hover{-webkit-transform: rotate(360deg);
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: now;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;}
+a{text-decoration: none; color: whitesmoke; }
+*{font-family: georgia;  }
